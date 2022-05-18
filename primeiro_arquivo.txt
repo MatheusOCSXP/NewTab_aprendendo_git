@@ -1,14 +1,14 @@
-/* GIT */
+#GIT#
 
 https://git-scm.com/
 
-Agora podemos identificar seu nome de usuário e e-mail para o git. Essas informações são importantes, pois cada commit efetuado por um usuário utiliza esses dados. Os comandos são os seguintes:
+*Agora podemos identificar seu nome de usuário e e-mail para o git. Essas informações são importantes, pois cada commit efetuado por um usuário utiliza esses dados. Os comandos são os seguintes:*
 
 git config –global user.name “seunomedeusuario”
 git config –global user.email seunome@dominio.com
 
 
-Clonando um repositório existente
+*Clonando um repositório existente*
 
 git clone url
 
